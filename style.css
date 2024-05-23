@@ -23,4 +23,10 @@ body{
 
 .number {
     transform: rotate(calc(30deg * var(--n)));
+    position: absolute;
+    text-align: center;
+    inset: 20px;
+    font-size: 40px;
+
+
 }
