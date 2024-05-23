@@ -20,3 +20,7 @@ body{
     background-color: lightgray;
     border-radius: 10px;
 }
+
+.number {
+    transform: rotate(calc(30deg * var(--n)));
+}
